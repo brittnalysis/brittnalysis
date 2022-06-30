@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brittnalysis
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m Brittney Moret
+- 👀 I’m interested in Data Analytics, data visualization, digital marketing, healthcare, etc.
 - 🌱 I’m currently skill-boosting SQL & Python for data analysis 
 - 📫 How to reach me - brittney.moret@icloud.com
 
